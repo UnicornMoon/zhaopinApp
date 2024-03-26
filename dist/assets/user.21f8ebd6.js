@@ -1,0 +1,1 @@
+import{s as t}from"./request.9fb191dc.js";function e(o){return t({url:"/login/code",method:"post",data:o})}function n(o){return t({url:"/login",method:"post",data:o})}function i(o){return t({url:"policy_protocol/list",method:"get",params:o})}export{i as a,e as g,n as l};

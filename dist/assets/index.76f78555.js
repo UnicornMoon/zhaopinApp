@@ -1,0 +1,1 @@
+import{U as o}from"./UserInfoPage.0784a97b.js";import{d as e,j as r,o as t,s as p}from"./index.b59b35ee.js";import"./my.3f31c08e.js";import"./request.9fb191dc.js";import"./task.1fc562b9.js";import"./task.59c7b2dc.js";import"./my.6306223f.js";const h=e({__name:"index",setup(s){return p("popup",{closeChange:()=>{history.back()}}),(n,c)=>(t(),r(o))}});export{h as default};
